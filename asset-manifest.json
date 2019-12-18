@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Protecht/static/css/main.0e249986.chunk.css",
+    "main.js": "/Protecht/static/js/main.a77d5147.chunk.js",
+    "main.js.map": "/Protecht/static/js/main.a77d5147.chunk.js.map",
+    "runtime~main.js": "/Protecht/static/js/runtime~main.ec4829f9.js",
+    "runtime~main.js.map": "/Protecht/static/js/runtime~main.ec4829f9.js.map",
+    "static/css/2.90172c5a.chunk.css": "/Protecht/static/css/2.90172c5a.chunk.css",
+    "static/js/2.aeee9366.chunk.js": "/Protecht/static/js/2.aeee9366.chunk.js",
+    "static/js/2.aeee9366.chunk.js.map": "/Protecht/static/js/2.aeee9366.chunk.js.map",
+    "index.html": "/Protecht/index.html",
+    "precache-manifest.c8e5c59043357774ed051e0d7f72d5ec.js": "/Protecht/precache-manifest.c8e5c59043357774ed051e0d7f72d5ec.js",
+    "service-worker.js": "/Protecht/service-worker.js",
+    "static/css/2.90172c5a.chunk.css.map": "/Protecht/static/css/2.90172c5a.chunk.css.map",
+    "static/css/main.0e249986.chunk.css.map": "/Protecht/static/css/main.0e249986.chunk.css.map",
+    "static/media/about.jpg": "/Protecht/static/media/about.8723d7a2.jpg",
+    "static/media/avatar.jpg": "/Protecht/static/media/avatar.7257a1a9.jpg",
+    "static/media/bg11.jpg": "/Protecht/static/media/bg11.e643a6cf.jpg",
+    "static/media/bg5.jpg": "/Protecht/static/media/bg5.056eb058.jpg",
+    "static/media/eva.jpg": "/Protecht/static/media/eva.089c4f4e.jpg",
+    "static/media/fam.jpg": "/Protecht/static/media/fam.c1b6c68a.jpg",
+    "static/media/hero-image-1.png": "/Protecht/static/media/hero-image-1.a76c7b4c.png",
+    "static/media/now-ui-kit.scss": "/Protecht/static/media/nucleo-outline.8ebec31f.woff2",
+    "static/media/one.jpg": "/Protecht/static/media/one.63499a39.jpg",
+    "static/media/register-bg.png": "/Protecht/static/media/register-bg.3842beca.png",
+    "static/media/ryan.jpg": "/Protecht/static/media/ryan.f217f346.jpg",
+    "static/media/three.jpg": "/Protecht/static/media/three.3c534f7c.jpg",
+    "static/media/two.jpg": "/Protecht/static/media/two.e24d9ffb.jpg"
+  }
+}
